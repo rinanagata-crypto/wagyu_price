@@ -37,9 +37,9 @@ p {
 
 
 .submit-color {
-  background-color: #17a2b8
+  background-color: yellow
   ;
-  color: white;
+  color: yellow;
   opacity: 0.9;
   transition: all 0.4s;
   margin: 0 auto;
@@ -59,6 +59,7 @@ footer {
   text-align: center;
 }
 .card {
+   background-color: yellow;
   border-radius: 0;
 }
 #page-top {
@@ -70,7 +71,7 @@ footer {
   position: fixed;
   right: 20px;
   bottom: 20px;
-  background-color: #FFA500;
+  background-color: yellow;
 }
 
 #page-top a {
